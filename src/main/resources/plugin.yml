@@ -1,0 +1,23 @@
+name: ArisAuthme
+version: 1.3
+main: me.aris.arisauthme.ArisAuthme
+api-version: '1.20'
+author: VennLMAO
+commands:
+  arislocation:
+    description: Thiết lập vị trí xác thực hoặc reload plugin.
+    permission: arisauthme.admin
+    aliases: [aloc]
+  adminpass:
+    description: Lệnh dành cho Admin xác thực mã Pin.
+  setpass:
+    description: Đặt mã Pin Admin cho một người chơi.
+    permission: arisauth.admin
+  deletepass:
+    description: Xóa mã Pin Admin của một người chơi.
+    permission: arisauth.admin
+permissions:
+  arisauthme.admin:
+    default: op
+  arisauth.admin:
+    default: op
