@@ -1,0 +1,16 @@
+settings:
+  teleport_to_spawn_on_join: true
+  max_accounts_per_ip: 3
+  timeout_seconds: 60
+
+sounds:
+  success: ENTITY_PLAYER_LEVELUP
+  error: ENTITY_VILLAGER_NO
+
+arislocation:
+  world: world
+  x: 0.0
+  y: 64.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0
