@@ -1,0 +1,20 @@
+titles:
+  register_main: "&#facc15đăɴɢ ᴋý"
+  register_sub: "&#facc15/ᴅᴀɴɢᴋʏ <ᴍᴋ> <ᴍᴋ>"
+  login_main: "&#facc15đăɴɢ ɴʜậᴘ"
+  login_sub: "&#facc15/ᴅᴀɴɢɴʜᴀᴘ <ᴍᴋ>"
+  admin_main: "&#ff0812xáᴄ ᴛʜựᴄ ᴀᴅᴍɪɴ"
+  admin_sub: "&#ff0812/ᴀᴅᴍɪɴᴘᴀꜱꜱ <ᴍã-ᴘɪɴ>"
+
+messages:
+  login_actionbar: "&#facc15ʜếᴛ ʜạɴ đăɴɢ ɴʜậᴘ ꜱᴀᴜ: %time%ꜱ"
+  register_actionbar: "&#facc15ʜếᴛ ʜạɴ đăɴɢ ᴋý ꜱᴀᴜ: %time%ꜱ"
+  admin_actionbar: "&#ff0812ᴄảɴʜ ʙáᴏ: xáᴄ ᴛʜựᴄ ᴀᴅᴍɪɴ (ᴄòɴ %time%ꜱ)"
+  timeout_kick: "&#ff0812ʙạɴ đã ʜếᴛ ᴛʜờɪ ɢɪᴀɴ đăɴɢ ɴʜậᴘ!"
+  admin_success: "&#facc15xáᴄ ᴛʜựᴄ ᴀᴅᴍɪɴ ᴛʜàɴʜ ᴄôɴɢ!"
+  wrong_password: "&#ff0812ᴍậᴛ ᴋʜẩᴜ ᴋʜôɴɢ ᴄʜíɴʜ xáᴄ!"
+  success_register_title: "&fđăɴɢ ᴋý ᴛʜàɴʜ ᴄôɴɢ"
+  success_login_title: "&ađăɴɢ ɴʜậᴘ ᴛʜàɴʜ ᴄôɴɢ"
+  location_set: "&#facc15đã ʟưᴜ ᴠị ᴛʀí ᴀʀɪꜱʟᴏᴄᴀᴛɪᴏɴ ᴛʜàɴʜ ᴄôɴɢ!"
+  admin_setpass: "&#facc15đã đặᴛ mã Pin Admin cho %player%!"
+  admin_delpass: "&#facc15đã xóa mã Pin Admin của %player%!"
